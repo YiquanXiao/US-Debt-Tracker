@@ -1,5 +1,5 @@
 # US-Debt-Tracker
-- Use Excel to accomplish the scenario simulation below
+Use Excel to accomplish the scenario simulation below
 - Data, Analysis, and Report are stored in different sheets of the Excel
 
 ## Scenario
